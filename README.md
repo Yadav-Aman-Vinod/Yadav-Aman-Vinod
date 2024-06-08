@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Aman Yadav! (https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
+# 👋 Hello, I'm Aman Yadav! [](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
 
 ### 🌟 Welcome to my GitHub Profile! 🌟
 
