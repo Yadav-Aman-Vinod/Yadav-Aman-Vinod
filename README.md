@@ -21,6 +21,4 @@ Loves to blend creativity and technology. I thrive on challenges and am always e
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 </div>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="cat" />
-</div>
+
