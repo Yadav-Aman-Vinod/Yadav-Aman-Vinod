@@ -1,7 +1,8 @@
 <div align="center">
   <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="wave" />
 </div>
-
+<div align="center">
+  
 # 👋 Hello, I'm Aman Yadav!
 ### 🌟 Welcome to my GitHub Profile! 🌟
 
@@ -18,3 +19,4 @@ Loves to blend creativity and technology. I thrive on challenges and am always e
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+</div>
