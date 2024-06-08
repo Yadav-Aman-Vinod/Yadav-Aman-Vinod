@@ -2,7 +2,7 @@ Sure! Here's a fun and interactive introduction for your GitHub profile, complet
 
 ---
 
-# 👋 Hello, I'm [Your Name]! ![Wave](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
+# 👋 Hello, I'm Aman Yadav! ![Wave](https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif)
 
 ### 🌟 Welcome to my GitHub Profile! 🌟
 
